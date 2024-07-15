@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "122176202899",
+    "firebase_url": "https://my-app-483c8-default-rtdb.firebaseio.com",
+    "project_id": "my-app-483c8",
+    "storage_bucket": "my-app-483c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122176202899:android:5257ffe1cc0e449973c566",
+        "android_client_info": {
+          "package_name": "com.example.wisata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-62Vr1RY8OA4nL33OlnZCzNZQI31q5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122176202899:android:dc0d6f698df12bde73c566",
+        "android_client_info": {
+          "package_name": "com.example.yourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-62Vr1RY8OA4nL33OlnZCzNZQI31q5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

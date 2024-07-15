@@ -1,0 +1,53 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wisata">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Wisata">
+
+        <activity android:name=".About"></activity>
+        <activity android:name=".Udang" />
+        <activity android:name=".Tehe" />
+        <activity android:name=".Tualang" />
+        <activity android:name=".Berenag" />
+        <activity android:name=".Menyelam" />
+        <activity android:name=".Aktivitas" />
+        <activity android:name=".WisataKuliner" />
+        <activity android:name=".Sambaliung" />
+        <activity android:name=".Gunta" />
+        <activity android:name=".Museum" />
+        <activity android:name=".Budaya" />
+        <activity android:name=".RiauFantasi" />
+        <activity android:name=".PulauKakaban" />
+        <activity android:name=".PulauDerawan" />
+        <activity android:name=".GoaHajiMangku" />
+        <activity android:name=".DanauNyadeng" />
+        <activity android:name=".WisataAlam" />
+        <activity android:name=".DanauLabuanCermin" />
+        <activity android:name=".Alam" />
+        <activity android:name=".MenuUtama" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        </activity>
+
+    </application>
+
+</manifest>
